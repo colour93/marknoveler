@@ -4,6 +4,7 @@
 
 p {
     font-size: large;
+    text-indent: 2em;
 }
 
 @media (min-width: 1200px) {
