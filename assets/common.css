@@ -1,0 +1,14 @@
+* {
+    font-family: 'PingFang', 'Microsoft YaHei';
+}
+
+p {
+    font-size: large;
+}
+
+@media (min-width: 1200px) {
+    body {
+        width: 1200px;
+        margin: auto;
+    }
+}
